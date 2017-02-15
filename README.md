@@ -1,4 +1,4 @@
-# Email_Checker_Ajax
+# Email_Validator_Ajax
 Email/Username Duplicate checking  
 
 #Instruction
